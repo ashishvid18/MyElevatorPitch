@@ -4,7 +4,7 @@ My Name is Ashish Vidyarthi.
 
 I am from Patna,Bihar.
 
-I am a Ist Year B.E Student.
+I am a 2ndYear B.E Student.
 
 I am pursuing my B.E degree in Artificial Intelligence & Machine Learning.
 
